@@ -1,6 +1,6 @@
 ## CentOS7 Cinnamon Desktop
 
-CentOS7 respin with Cinnamon dektop as default environment.
+CentOS7 respin with Cinnamon desktop as default environment.
 ## Packages
 * kernel 3.10
 * cinnamon 3.6
